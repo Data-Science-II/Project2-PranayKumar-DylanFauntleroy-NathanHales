@@ -13,6 +13,8 @@ We used Scala and Python for our project.
 
 ### Scala
 
+The files will all be placed in the scalation modeling analytics package. ConcreteStuff, WineStuff, StabilityStuff and BikeStuff are all modeled after ExampleAutoMPG, and serve as imports for the datasets for the ML models. Each of the five files starting with "CSCI4360Project2" have test runs with every model inside of them, including the commands to run the individual tests.
+
 ### Python
 
 The python file is an ipynb and so should be opened with either Jupyter Notebook or Google Colab. I would recommend using Google Colab since the required packages are already installed. 
